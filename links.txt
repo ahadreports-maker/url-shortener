@@ -3,4 +3,4 @@
 # Example: visiting ahadreports.com/Ebooks goes to the full URL below.
 
 Ebooks=https://mrshelbywrites.gumroad.com/l/BESTSELLINGEBOOKS
-The Truth=https://cdc71yl9oyjhty54tgqvmkze7q.hop.clickbank.net
+Truth=https://cdc71yl9oyjhty54tgqvmkze7q.hop.clickbank.net
