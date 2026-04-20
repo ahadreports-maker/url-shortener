@@ -1,0 +1,7 @@
+# Format: shortcode=https://full-destination-url
+# Lines starting with # are ignored.
+# Example: visiting ahadreports.com/report goes to the full URL below.
+
+report=https://docs.google.com/spreadsheets/d/your-sheet-id
+slides=https://docs.google.com/presentation/d/your-deck-id
+contact=https://wa.me/919876543210
