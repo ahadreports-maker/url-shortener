@@ -2,5 +2,5 @@
 # Lines starting with # are ignored.
 # Example: visiting ahadreports.com/Ebooks goes to the full URL below.
 
-Ebooks=https://mrshelbywrites.gumroad.com/l/BESTSELLINGEBOOKS
-Truth=https://cdc71yl9oyjhty54tgqvmkze7q.hop.clickbank.net
+ebooks=https://mrshelbywrites.gumroad.com/l/BESTSELLINGEBOOKS
+truth=https://cdc71yl9oyjhty54tgqvmkze7q.hop.clickbank.net
